@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+h1.ex1 {
+    padding: 0px 100px;
+}
+    
+</style>
+</head>
+    
+<body style="font-family:Verdana;">
+  <div align="center">    
+<h1 style="font-size:40px;" class="ex1">NEGROS CSR Balanced Scorecard</h1>
+  </div>
+    
+  <div class="main" align="center">
+  <iframe 
+  scrolling="yes" 
+  seamless frameborder="0" 
+  width="790" 
+  height="3100"
+  
+  
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRV5I6mNt-fnuvtV7S4e9Kzz2GbtTwI9pLnkj3jrTu1hpsAqNAcJJlVCYeRP6fI_eMyZCH98M_v4WfV/pubhtml?
+gid=1592133163
+&single=true
+&amp;
+   format=interactive;
+   headers=false;
+   widget=false;
+&range=a1:h124
+&chrome=false"
+>
+</iframe>
+  </div>
+
+</body>
+</html>
